@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="image/flower.jpg" alt="flower" style="zoom:50%;" />
+![mangxiao2018`s github stats](https://github-readme-stats.vercel.app/api?username=mangxiao2018&hide=[%22issues%22]&show_icons=true)
+
